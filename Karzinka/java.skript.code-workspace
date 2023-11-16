@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../java.skript"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js.doom",
+		"liveServer.settings.port": 5501
+	}
+}
